@@ -1,0 +1,6 @@
+[submodule "gestione-ordini"]
+	path = gestione-ordini
+	url = https://github.com/doriamauro/git-Lab-multirepo-gestione-ordini.git
+[submodule "gestione-magazzino"]
+	path = gestione-magazzino
+	url = https://github.com/doriamauro/git-Lab-multirepo-gestione-magazzino.git
