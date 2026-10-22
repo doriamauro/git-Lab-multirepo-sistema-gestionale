@@ -1,5 +1,5 @@
 # Sistema gestionale - Laboratorio Git Submodule
-
+# modifica
 Repository integratore di due componenti Python sviluppati in repository indipendenti.
 
 ## Clonazione
